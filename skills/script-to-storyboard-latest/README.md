@@ -1,19 +1,19 @@
-# 最新版小说转剧本
+# 最新版剧本转分镜
 
 依据用户提供的18页《导演模式最终融合版.pdf》整理的 Codex skill。将小说片段或已有剧本转成即梦 / Seedance 可执行的导演级分镜段落。
 
-显示名称：**最新版小说转剧本**。兼容用技能标识：`novel-to-script-latest`。
+显示名称：**最新版剧本转分镜**。兼容用技能标识：`script-to-storyboard-latest`。
 
 ## 安装和使用
 
-将整个 `novel-to-script-latest` 文件夹放入自己的 Codex skills 目录（通常为 `~/.codex/skills/`）。重新打开会话后，可发送：
+将整个 `script-to-storyboard-latest` 文件夹放入自己的 Codex skills 目录（通常为 `~/.codex/skills/`）。重新打开会话后，可发送：
 
 ```text
-请使用 $novel-to-script-latest，把下面的剧本按导演模式最终融合版转成分镜：
+请使用 $script-to-storyboard-latest，把下面的剧本按导演模式最终融合版转成分镜：
 [粘贴正文]
 ```
 
-也可以直接说“使用最新版小说转剧本”。该技能默认允许自动匹配相关任务。
+也可以直接说“使用最新版剧本转分镜”。该技能默认允许自动匹配相关任务。
 
 ## 主要规则
 

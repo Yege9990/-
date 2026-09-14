@@ -1,4 +1,0 @@
-interface:
-  display_name: "最新版小说转剧本"
-  short_description: "按导演最终融合版，将小说或剧本转为剧情完整、表演清楚的可执行分镜"
-  default_prompt: "请使用 $novel-to-script-latest，将我提供的小说或剧本按导演模式最终融合版转成即梦 / Seedance可执行分镜。"
